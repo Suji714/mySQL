@@ -1,0 +1,5 @@
+CREATE TABLE Course (
+   courseId INT PRIMARY KEY,
+   cName VARCHAR(50) NOT NULL,
+   Fees DECIMAL(10, 2) NOT NULL
+);
